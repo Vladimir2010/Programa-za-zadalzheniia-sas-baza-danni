@@ -1,1 +1,1 @@
-# Schetovodna-programa
+# Programa za zadalzheniia sas baza danni
